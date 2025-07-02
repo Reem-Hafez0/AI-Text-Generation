@@ -1,4 +1,4 @@
-# AI Text Generation App ✨
+# AI Text Generation App 
 
 A simple web app to generate smart text using Google Gemini AI, with an interactive Streamlit interface.
 
